@@ -48,8 +48,8 @@ fortune:
     - "config - Joys are often the shadows, cast by sorrows."
     - "config - Fortune favors the brave."
 
-logging
-  level
+logging:
+  level:
     root: WARN
     org.springframework.web: WARN
     io.spring.cloud.samples: INFO
